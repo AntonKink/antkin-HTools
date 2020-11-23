@@ -4,7 +4,7 @@
 I will try to dispense with terms. Imagine a real port (those with ships). So a ship is a certain piece of data (a packet), it moves along a certain path (channel) to a certain port. In this port, any actions will take place with him. This ship (packet) can be unloaded (receive data), and can be sent further if the port is closed for repairs.  
 The port is closed - this means that you cannot establish a connection with this port.  
 Open port - similarly, this is the port with which you can establish a connection and exchange information.  
-Сокет - коротко говоря, интерфейс для обмена данными между устройствами.
+A socket is, in short, an interface for exchanging data between devices.
 
 ## The work principle of the program
 1. Asks the type.

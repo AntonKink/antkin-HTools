@@ -7,6 +7,7 @@ These are just some of the tools I wrote for educational purposes. My goal is to
 - Simple_Backdoor  
 - IP_Info - Collecting IP Information  
 - TelNo_info - Collecting information about the cell number  
+- Simple_Keylogger  
 
 ## License
 These tools are provided using GPLv2 license. There is no liability and warranty.  

@@ -15,7 +15,7 @@ To begin with, let's decide what information we want to receive. Basically, it w
 ## How to use
 ```console
 user@pc:~$ python ii.py
-Enter IP: 89.235.205.124
+Enter IP: 89.***.***.***
 ------------------------------------------------------------
 IP: 89.***.***.***
 Hostname: ***
